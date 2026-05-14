@@ -80,7 +80,8 @@ client.close()
 
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-13 154042" src="https://github.com/user-attachments/assets/15043bec-129d-4fae-a7db-e42aa130f4c1" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-13 154001" src="https://github.com/user-attachments/assets/71bcd21f-ec3c-4745-9db2-f90cba567f0f" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
